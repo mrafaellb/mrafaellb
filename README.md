@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+love+Protein+Engineering!;New+to+the+world+of+scientific+computing!;I'm+always+learning!;Biotech+for+life!!!;&center=true&width=500&height=50"></a>
+ 
+<div style="display: inline_block">
+ 
+###                             
+ 
+</div>
+</p>
